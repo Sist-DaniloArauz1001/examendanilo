@@ -1,0 +1,17 @@
+C:\ExamenParcial\EXAMEN_WPF_Access\bin\Debug\EXAMEN_WPF_Access.exe.config
+C:\ExamenParcial\EXAMEN_WPF_Access\bin\Debug\EXAMEN_WPF_Access.exe
+C:\ExamenParcial\EXAMEN_WPF_Access\bin\Debug\EXAMEN_WPF_Access.pdb
+C:\ExamenParcial\EXAMEN_WPF_Access\bin\Debug\System.Data.OleDb.dll
+C:\ExamenParcial\EXAMEN_WPF_Access\bin\Debug\System.Data.OleDb.xml
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.csproj.AssemblyReference.cache
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\MainWindow.baml
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\MainWindow.g.cs
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\App.g.cs
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access_MarkupCompile.cache
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.g.resources
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.Properties.Resources.resources
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.csproj.GenerateResource.cache
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.csproj.CoreCompileInputs.cache
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_W.E964DA41.Up2Date
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.exe
+C:\ExamenParcial\EXAMEN_WPF_Access\obj\Debug\EXAMEN_WPF_Access.pdb
